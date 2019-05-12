@@ -1,3 +1,3 @@
 # block-tiktok
-Block Tiktok adds and acces
+Block Tiktok adds and access
 
