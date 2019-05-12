@@ -1,3 +1,8 @@
+# Tiktok block list
+
+127.0.0.1  localhost
+::1  localhost
+
 ! Title: block-tiktok
 127.0.0.1 api-h2.tiktokv.com
 127.0.0.1 api.tiktokv.com
