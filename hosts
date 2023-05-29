@@ -48,3 +48,72 @@
 127.0.0.1 34.196.79.125
 127.0.0.1 47.252.102.198
 127.0.0.1 161.117.70.68
+127.0.0.1 abtest-sg-tiktok.byteoversea.com
+127.0.0.1 abtest-va-tiktok.byteoversea.com
+127.0.0.1 gts.byteoversea.net
+127.0.0.1 isnssdk.com
+127.0.0.1 lf1-ttcdn-tos.pstatp.com
+127.0.0.1 muscdn.com
+127.0.0.1 musemuse.cn
+127.0.0.1 musical.ly
+127.0.0.1 p16-ad-sg.ibyteimg.com
+127.0.0.1 p16-tiktok-sg.ibyteimg.com
+127.0.0.1 p16-tiktok-sign-va-h2.ibyteimg.com
+127.0.0.1 p16-tiktok-va-h2.ibyteimg.com
+127.0.0.1 p16-tiktok-va.ibyteimg.com
+127.0.0.1 p16-va-tiktok.ibyteimg.com
+127.0.0.1 p1-tt.byteimg.com
+127.0.0.1 p1-tt-ipv6.byteimg.com
+127.0.0.1 p26-tt.byteimg.com
+127.0.0.1 p3-tt-ipv6.byteimg.com
+127.0.0.1 to p9-tt.byteimg.com
+127.0.0.1 pull-f3-hs.pstatp.com
+127.0.0.1 pull-f5-hs.flive.pstatp.com
+127.0.0.1 pull-f5-hs.pstatp.com
+127.0.0.1 pull-f5-mus.pstatp.com
+127.0.0.1 pull-flv-f1-hs.pstatp.com
+127.0.0.1 pull-flv-f6-hs.pstatp.com
+127.0.0.1 pull-flv-l1-hs.pstatp.com
+127.0.0.1 pull-flv-l1-mus.pstatp.com
+127.0.0.1 pull-flv-l6-hs.pstatp.com
+127.0.0.1 127.0.0.1 pull-hls-l1-mus.pstatp.com
+127.0.0.1 pull-l3-hs.pstatp.com
+127.0.0.1 pull-rtmp-f1-hs.pstatp.com
+127.0.0.1 pull-rtmp-f6-hs.pstatp.com
+127.0.0.1 pull-rtmp-l1-hs.pstatp.com
+127.0.0.1 pull-rtmp-l1-mus.pstatp.com
+127.0.0.1 pull-rtmp-l6-hs.pstatp.com
+127.0.0.1 quic-tiktok-core-proxy-i18n-gcpva.byteoversea.net
+127.0.0.1 quic-tiktok-proxy-i18n-gcpva.byteoversea.net
+127.0.0.1 sf16-ttcdn-tos.ipstatp.com
+127.0.0.1 sf1-ttcdn-tos.pstatp.com
+127.0.0.1 sf6-ttcdn-tos.pstatp.com
+127.0.0.1 sgsnssdk.com
+127.0.0.1 tiktokcdn.com
+127.0.0.1 tiktokcdn.com.atomile.com
+127.0.0.1 tiktokcdn.com.c.bytefcdn-oversea.com
+127.0.0.1 tiktokcdn.com.c.bytetcdn.com
+127.0.0.1 tiktokcdn.com.c.worldfcdn.com
+127.0.0.1 tiktokcdn.com.rocket-cdn.com
+127.0.0.1 tiktokcdn-in.com
+127.0.0.1 tiktokcdn-us.com
+127.0.0.1 tiktokcdn-us.com.atomile.com
+127.0.0.1 tiktok.com
+127.0.0.1 tiktokd.org
+127.0.0.1 tiktok-lb-alisg.byteoversea.net
+127.0.0.1 tiktok-lb-maliva.byteoversea.net
+127.0.0.1 tiktok-platform-lb-alisg.byteoversea.net
+127.0.0.1 tiktokv.com
+127.0.0.1 tiktokv.com.c.bytefcdn-oversea.com
+127.0.0.1 tiktokv.com.c.worldfcdn2.com
+127.0.0.1 tiktokv.com.c.worldfcdn.com
+127.0.0.1 tlivecdn.com
+127.0.0.1 ttlivecdn.com
+127.0.0.1 ttlivecdn.com.c.worldfcdn.com
+127.0.0.1 ttoversea.net
+127.0.0.1 ttoverseaus.net
+71.18.247.0/24
+71.18.253.0/24
+71.18.255.0/24
+103.136.220.0/22
+118.26.132.0/24
